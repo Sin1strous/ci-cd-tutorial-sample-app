@@ -43,7 +43,7 @@ $ source venv/bin/activate
 $ pip install -r requirements.txt
 ```
 
-With `conda` or `miniconda`:
+With `conda` or `miniconda`:\\
 
 ```sh
 $ conda env create -n ci-cd-tutorial-sample-app python=3.8
